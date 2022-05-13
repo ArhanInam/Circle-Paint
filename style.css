@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-image: url("wp4065606.png");
+}
+#mycanvas{
+    border-style: ridge;
+    background-color: white;
+    border-color: blue;
+    border-width: 10px;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+    text-decoration: wavy;
+}
